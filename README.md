@@ -2,7 +2,7 @@
   <img src="https://github.com/dhanwanth-dev/dhanwanth-dev/blob/main/profile%20banner.jpg?raw=true" alt="Dhanwanth Banner" />
 </p>
 
-<h1 align="center">AI Engineer | Coder | Designer | Builder | Future Tech Entrepreneur</h1>
+<h1 align="center"><strong>🚀 AI Engineer | Coder | Designer | Builder | Future Tech Entrepreneur 🚀</strong></h1>
 
 ---
 
