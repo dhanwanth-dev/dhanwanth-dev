@@ -1,62 +1,43 @@
+# Hey, I'm Sridhanwanth! 👋
 
-<h1 align="center"><strong>🚀 AI Engineer | Coder | Designer | Builder | Future Tech Entrepreneur 🚀</strong></h1>
+### About Me
 
----
+I'm a B.Tech student in Artificial Intelligence & Machine Learning, passionate about exploring AI, building practical solutions, and creating user-friendly experiences. I’m a curious learner who grows through hands-on projects and embraces new challenges. My goal is to solve meaningful problems with technology while continuously sharpening my skills.
 
-### 👨‍💻 About Me
+### What I’m Working On
 
-I'm currently pursuing my B.Tech in Artificial Intelligence & Machine Learning.\
-I’m passionate about building intelligent systems, designing user-centric experiences, and turning ideas into real-world products.
+- 🧠 Crafting AI-driven applications to solve real-world problems  
+- 🌐 Building full-stack web apps with intuitive designs  
+- ⚙️ Experimenting with automation to simplify workflows  
+- 📚 Learning and applying new concepts through projects  
 
-I believe in **learning by doing**, keeping a **beginner's mind**, and staying grounded as I grow. My goal? To become a tech entrepreneur who builds tools that truly help people.
+### Tech Stack & Tools
 
----
+**Frontend:**  
+- React.js, HTML, CSS, Tailwind, JavaScript  
 
-### 🚀 What I'm Focused On
+**Backend:**  
+- Node.js, Express.js, RESTful APIs
 
-- 🤖 Building smart AI/ML-powered products  
-- 🧠 Learning deeply about machine learning & automation  
-- 🎨 Designing smooth, human-friendly interfaces  
-- 🛠️ Developing full-stack applications  
-- 🌱 Growing every day as a builder and future leader  
-
----
-
-### ⚒️ Tech Stack & Tools
-
-#### 👨‍💻 **Frontend:**
-- React.js  
-- HTML, CSS, Tailwind, JavaScript  
-
-#### 🔧 **Backend:**
-- Node.js  
-- Express.js  
-- RESTful APIs  
-- Authentication (JWT, OAuth)  
-
-#### 🗃️ **Database:**
+**Database:**  
 - MongoDB  
-- Mongoose ODM  
 
-#### 🤖 **Machine Learning:**
-- Python  
-- TensorFlow  
-- Keras  
-- Scikit-learn  
-- N8N automation  
+**Machine Learning:**  
+- Python, TensorFlow, Keras, Scikit-learn, N8N  
 
----
+### Projects
 
-### 📫 Let's Connect
+- **DoreAI - An Offline Personal Assistant:** Designed an AI-powered assistant that works offline, leveraging Python and ML libraries to handle tasks efficiently.  
+- **Benchmarking Models Using Skin Cancer Dataset:** Evaluated machine learning models with Scikit-learn and TensorFlow to classify skin cancer images, focusing on performance optimization.  
 
-I’m always open to learning, collaborating, or just talking about cool ideas.
+### Let's Connect
+
+I’m excited to collaborate, exchange ideas, or learn something new. Feel free to reach out!  
 
 - 📧 Email: [dhanwanth.codes@gmail.com](mailto:dhanwanth.codes@gmail.com)  
 - 💼 LinkedIn: [Sridhanwanth S](https://www.linkedin.com/in/sridhanwanth-s-39b94a189)  
-- 🛠️ GitHub Projects: [@sridhanwanth](https://github.com/sridhanwanth)  
-
----
+- 🛠️ GitHub: [@sridhanwanth](https://github.com/sridhanwanth)  
 
 <p align="center">
-  <i>"Engineer at mind, entrepreneur at heart. I learn by building, and build by learning."</i>
+  <i>"Learning by building, one project at a time."</i>
 </p>
